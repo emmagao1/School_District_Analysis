@@ -2,6 +2,8 @@
 
 ## Overview of the school district analysis: Explain the purpose of this analysis.
 
+Helping school board to analyze academic scores by replacing Thomas High School 9th grader's match and reading scores to NaNs to determine the impact of score changes to the overall academic analysis.
+
 ## Results: Using bulleted lists and images of DataFrames as support, address the following questions.
 
 * How is the district summary affected?
