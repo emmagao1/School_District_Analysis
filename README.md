@@ -33,10 +33,28 @@ Overall passing rate excluding Thomas High School 9th graders
 
   - Math and reading scores by grade
 
-  - Scores by school spending
+Math score by grade after score replacement
 
-  - Scores by school size
+![math score by grade after score replacement](https://github.com/emmagao1/School_District_Analysis/blob/master/Math%20score%20by%20grade%20after%20thomas%20score%20replacement.PNG)
+
+Reading score by grade after score replacement
+![reading score by grade after score replacement](https://github.com/emmagao1/School_District_Analysis/blob/master/Reading%20score%20by%20grade%20after%20thomas%20score%20replacement.PNG)
+ 
+ - Scores by school spending
+
+Scores by school spending after score replacement
+![Scores by school spending after score replacement](https://github.com/emmagao1/School_District_Analysis/blob/master/school%20spending%20scores%20after%20thomas%20high%20replacement.PNG)
+ 
+ - Scores by school size
+ 
+ Scores by school size after score replacement
+ ![Scores by school size after score replacement](https://github.com/emmagao1/School_District_Analysis/blob/master/school%20size%20scores%20after%20thomas%20high%20replacement.PNG)
  
   - Scores by school type
+
+ Scores by school type after score replacement
+ ![Scores by school type after score replacement](https://github.com/emmagao1/School_District_Analysis/blob/master/school%20type%20scores%20after%20thomas%20high%20replacement.PNG)
+
+
 
 ## Summary: Summarize four major changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
