@@ -99,4 +99,4 @@ Charter school was impacted by replacing Thomas High ninth-grade scores shown in
   - % Passing Math dropped 26.36% after replacing nith grade with NaNs 
   - % Passing Reading dropped 27.65% after replacing nith grade with NaNs 
   - % Overall Passing dropped 25.87% after replacing nith grade with NaNs 
-  - **Note the percentage drop is after replacing 9th grades with NaNs and before replacing NaNs to 10th-12th grade's passing percentage.
+  - **Note the percentage drop is after replacing 9th grades with NaNs and before replacing NaNs to 10th-12th grade's passing percentage.**
