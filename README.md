@@ -94,9 +94,9 @@ Charter school was impacted by replacing Thomas High ninth-grade scores shown in
   2. % Passing Reading increased by 4%
   3. % Overall Passing increased by 3%
 
-## Summary: Summarize four major changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
+## Summary: Summarize some major changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
 
-  - Scores by school type
-  - Scores by 
-  - Scores by 
-  - Scores by 
+  - % Passing Math dropped 26.36% after replacing nith grade with NaNs 
+  - % Passing Reading dropped 27.65% after replacing nith grade with NaNs 
+  - % Overall Passing dropped 25.87% after replacing nith grade with NaNs 
+  - **Note the percentage drop is after replacing 9th grades with NaNs and before replacing NaNs to 10th-12th grade's passing percentage.
