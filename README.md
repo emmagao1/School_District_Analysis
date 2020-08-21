@@ -61,8 +61,7 @@ There is no significant change other than 9th graders score got replaced.
  
   - Scores by school type after replacing the ninth-grade scores
   
- ![Scores by school type BEFORE score replacement]
-(https://github.com/emmagao1/School_District_Analysis/blob/master/school%20type%20scores%20BEFORE%20thomas%20high%20replacement.PNG)
+ ![Scores by school type BEFORE score replacement](https://github.com/emmagao1/School_District_Analysis/blob/master/school%20type%20scores%20BEFORE%20thomas%20high%20replacement.PNG)
 
  ![Scores by school type after score replacement](https://github.com/emmagao1/School_District_Analysis/blob/master/school%20type%20scores%20after%20thomas%20high%20replacement.PNG)
 
