@@ -2,7 +2,7 @@
 
 ## Overview of the school district analysis: Explain the purpose of this analysis.
 
-Helping school board to analyze academic scores by replacing Thomas High School 9th grader's match and reading scores to NaNs to determine the impact of score changes to the overall academic analysis.
+Helping school board to analyze academic scores by replacing Thomas High School 9th grader's match and reading scores to NaNs to determine the impact of score changes to the overall district summary analysis and school summary analysis.
 
 ## Results: Using bulleted lists and images of DataFrames as support, address the following questions.
 
@@ -23,6 +23,8 @@ School Summary including Thomas high 9th graders
 
 School Summary excluding Thomas high 9th graders
 ![School Summary excluding Thomas high 9th graders](https://github.com/emmagao1/School_District_Analysis/blob/master/School%20Summary%20excluding%20Thomas%20high%209th%20graders.PNG)
+
+Other than Thomas High School, all other schools results remain unchanged. Thomas High School passing math percentage dropped 26.36%., passing reading percentage dropped 27.65% and overall passing percentage dropped 25.87%. 
 
 * How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 
