@@ -14,7 +14,7 @@ District summary including Thomas High School 9th graders
 District summary excluding Thomas High School 9th graders
 ![District summary excluding Thomas High School 9th graders](https://github.com/emmagao1/School_District_Analysis/blob/master/district%20summary%20excluding%20thomas%20high.PNG)
 
-Overall district summary is not affected and passing rate fluctuate less than 1% shown in the table above.
+Overall district summary is not affected and passing rate fluctuate less than 1% shown in the table above. Pssing math percentage dropped 0.2% and passing reading percentage dropped 0.1% after replacing Thomas High School 9th grader's math and readign score to NaN and overall passing percentage dropped 0.3%.
 
 * How is the school summary affected?
 
