@@ -23,6 +23,12 @@ School Summary excluding Thomas high 9th graders
 ![School Summary excluding Thomas high 9th graders](https://github.com/emmagao1/School_District_Analysis/blob/master/School%20Summary%20excluding%20Thomas%20high%209th%20graders.PNG)
 
 * How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
+
+Overall passing rate including Thomas High School 9th graders
+![overall passing including thomas high](https://github.com/emmagao1/School_District_Analysis/blob/master/overall%20passing%20including%20thomas%20high%20after%20score%20replacement.PNG)
+
+Overall passing rate excluding Thomas High School 9th graders
+![overall passing excluding thomas high](https://github.com/emmagao1/School_District_Analysis/blob/master/overall%20passing%20excluding%20thomas%20high.PNG)
 * How does replacing the ninth-grade scores affect the following:
 
   - Math and reading scores by grade
