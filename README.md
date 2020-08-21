@@ -47,55 +47,55 @@ Before replacing 9th grader scores to NaN, Thomas High School was included in to
 There is no significant change other than 9th graders score got replaced.
 
  - **Scores by school spending**
-
+ 
 Before replacing the ninth-grade scores
-![Scores by school spending BEFORE score replacement](https://github.com/emmagao1/School_District_Analysis/blob/master/school%20spending%20scores%20BEFORE%20thomas%20high%20replacement.PNG)
+ 
+![Scores by school spending after score replacement](https://github.com/emmagao1/School_District_Analysis/blob/master/school%20spending%20scores%20after%20thomas%20high%20replacement.PNG) 
 
 After replacing the ninth-grade scores
- 
-![Scores by school spending after score replacement](https://github.com/emmagao1/School_District_Analysis/blob/master/school%20spending%20scores%20after%20thomas%20high%20replacement.PNG)
+![Scores by school spending BEFORE score replacement](https://github.com/emmagao1/School_District_Analysis/blob/master/school%20spending%20scores%20BEFORE%20thomas%20high%20replacement.PNG)
 
 Spending range $630-644 was impacted by replacing Thomas High ninth-grade scores shown in the tables above:
 
-  1. % Passing Math increased by 6%
-  2. % Passing Reading increased by 7%
-  3. % Overall Passing increased by 7%
+  1. % Passing Math dropped by 6%
+  2. % Passing Reading dropped by 7%
+  3. % Overall Passing dropped by 7%
 
  - **Scores by school size** 
- 
-Before replacing the ninth-grade scores
- 
-![Scores by school size BEFORE score replacement](https://github.com/emmagao1/School_District_Analysis/blob/master/school%20size%20scores%20BEFORE%20thomas%20high%20replacement.PNG)
 
-After replacing the ninth-grade scores
+Before replacing the ninth-grade scores
 
 ![Scores by school size after score replacement](https://github.com/emmagao1/School_District_Analysis/blob/master/school%20size%20scores%20after%20thomas%20high%20replacement.PNG)
+
+After replacing the ninth-grade scores
+ 
+![Scores by school size BEFORE score replacement](https://github.com/emmagao1/School_District_Analysis/blob/master/school%20size%20scores%20BEFORE%20thomas%20high%20replacement.PNG)
  
 School size medium (1000-2000) was impacted by replacing Thomas High ninth-grade scores shown in the tables above:
 
- 1. % Passing Math increased by 6%
- 2. % Passing Reading increased by 6%
- 3. % Overall Passing increased by 6%
+ 1. % Passing Math dropped by 6%
+ 2. % Passing Reading dropped by 6%
+ 3. % Overall Passing dropped by 6%
  
   - **Scores by school type** 
-  
-Before replacing the ninth-grade scores
-  
-![Scores by school type BEFORE score replacement](https://github.com/emmagao1/School_District_Analysis/blob/master/school%20type%20scores%20BEFORE%20thomas%20high%20replacement.PNG)
 
-After replacing the ninth-grade scores
+Before replacing the ninth-grade scores
 
 ![Scores by school type after score replacement](https://github.com/emmagao1/School_District_Analysis/blob/master/school%20type%20scores%20after%20thomas%20high%20replacement.PNG)
 
+After replacing the ninth-grade scores
+  
+![Scores by school type BEFORE score replacement](https://github.com/emmagao1/School_District_Analysis/blob/master/school%20type%20scores%20BEFORE%20thomas%20high%20replacement.PNG)
+
 Charter school was impacted by replacing Thomas High ninth-grade scores shown in the tables above:
 
-  1. % Passing Math increased by 4%
-  2. % Passing Reading increased by 4%
-  3. % Overall Passing increased by 3%
+  1. % Passing Math dropped by 4%
+  2. % Passing Reading dropped by 4%
+  3. % Overall Passing dropped by 3%
 
 ## Summary: Summarize some major changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
 
-  - % Passing Math dropped 26.36% after replacing nith grade with NaNs 
-  - % Passing Reading dropped 27.65% after replacing nith grade with NaNs 
-  - % Overall Passing dropped 25.87% after replacing nith grade with NaNs 
+  - Thomas High School % Passing Math dropped 26.36% after replacing nith grade with NaNs 
+  - Thomas High School % Passing Reading dropped 27.65% after replacing nith grade with NaNs 
+  - Thomas High School % Overall Passing dropped 25.87% after replacing nith grade with NaNs 
   - **Note the percentage drop is after replacing 9th grades with NaNs and before replacing NaNs to 10th-12th grade's passing percentage.**
