@@ -31,28 +31,22 @@ Overall passing rate excluding Thomas High School 9th graders
 ![overall passing excluding thomas high](https://github.com/emmagao1/School_District_Analysis/blob/master/overall%20passing%20excluding%20thomas%20high.PNG)
 * How does replacing the ninth-grade scores affect the following:
 
-  - Math and reading scores by grade
-
-Math score by grade after score replacement
+  - Math and reading scores by grade after replacing the ninth-grade scores
 
 ![math score by grade after score replacement](https://github.com/emmagao1/School_District_Analysis/blob/master/Math%20score%20by%20grade%20after%20thomas%20score%20replacement.PNG)
 
-Reading score by grade after score replacement
 ![reading score by grade after score replacement](https://github.com/emmagao1/School_District_Analysis/blob/master/Reading%20score%20by%20grade%20after%20thomas%20score%20replacement.PNG)
  
- - Scores by school spending
+ - Scores by school spending after replacing the ninth-grade scores
 
-Scores by school spending after score replacement
 ![Scores by school spending after score replacement](https://github.com/emmagao1/School_District_Analysis/blob/master/school%20spending%20scores%20after%20thomas%20high%20replacement.PNG)
  
- - Scores by school size
+ - Scores by school size after replacing the ninth-grade scores
  
- Scores by school size after score replacement
  ![Scores by school size after score replacement](https://github.com/emmagao1/School_District_Analysis/blob/master/school%20size%20scores%20after%20thomas%20high%20replacement.PNG)
  
-  - Scores by school type
+  - Scores by school type after replacing the ninth-grade scores
 
- Scores by school type after score replacement
  ![Scores by school type after score replacement](https://github.com/emmagao1/School_District_Analysis/blob/master/school%20type%20scores%20after%20thomas%20high%20replacement.PNG)
 
 
