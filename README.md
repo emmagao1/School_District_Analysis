@@ -8,9 +8,14 @@ Helping school board to analyze academic scores by replacing Thomas High School 
 
 * How is the district summary affected?
 
+District summary including Thomas High School 9th graders
 ![District summary including Thomas High School 9th graders](https://github.com/emmagao1/School_District_Analysis/blob/master/district%20summary%20including%20thomas%20high.PNG)
 
+District summary excluding Thomas High School 9th graders
+![District summary excluding Thomas High School 9th graders](https://github.com/emmagao1/School_District_Analysis/blob/master/district%20summary%20excluding%20thomas%20high.PNG)
+
 * How is the school summary affected?
+
 
 * How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 * How does replacing the ninth-grade scores affect the following:
