@@ -55,7 +55,12 @@ Before replacing the ninth-grade scores
 After replacing the ninth-grade scores
  
 ![Scores by school spending after score replacement](https://github.com/emmagao1/School_District_Analysis/blob/master/school%20spending%20scores%20after%20thomas%20high%20replacement.PNG)
- 
+
+Spending range $630-644 was impacted by replacing Thomas High ninth-grade scores shown in the tables above:
+% Passing Math increased by 6%
+% Passing Reading increased by 7%
+% Overall Passing increased by 7%
+
  - **Scores by school size** 
  
 Before replacing the ninth-grade scores
@@ -65,6 +70,11 @@ Before replacing the ninth-grade scores
 After replacing the ninth-grade scores
 
 ![Scores by school size after score replacement](https://github.com/emmagao1/School_District_Analysis/blob/master/school%20size%20scores%20after%20thomas%20high%20replacement.PNG)
+ 
+School size medium (1000-2000) was impacted by replacing Thomas High ninth-grade scores shown in the tables above:
+% Passing Math increased by 6%
+% Passing Reading increased by 6%
+% Overall Passing increased by 6%
  
   - **Scores by school type** 
   
@@ -76,6 +86,14 @@ After replacing the ninth-grade scores
 
 ![Scores by school type after score replacement](https://github.com/emmagao1/School_District_Analysis/blob/master/school%20type%20scores%20after%20thomas%20high%20replacement.PNG)
 
-
+Charter school was impacted by replacing Thomas High ninth-grade scores shown in the tables above:
+% Passing Math increased by 4%
+% Passing Reading increased by 4%
+% Overall Passing increased by 3%
 
 ## Summary: Summarize four major changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
+
+  - Scores by school type
+  - Scores by school type
+  - Scores by school type
+  - Scores by school type
