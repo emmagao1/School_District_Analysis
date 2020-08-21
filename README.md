@@ -35,6 +35,8 @@ Overall performance before replacing Thomas High School 9th graders math and rea
 Overall performance after replacing Thomas High School 9th graders math and reading scores
 ![overall passing including thomas high](https://github.com/emmagao1/School_District_Analysis/blob/master/overall%20passing%20including%20thomas%20high%20after%20score%20replacement.PNG)
 
+Before replacing scores Thomas High School wasn't included in top 5 performing schools and after replacing scores, it ranked number 2 in top 5 performing schools.
+
 * How does replacing the ninth-grade scores affect the following:
 
   - Math and reading scores by grade after replacing the ninth-grade scores
