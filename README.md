@@ -48,14 +48,21 @@ Before replacing scores Thomas High School wasn't included in top 5 performing s
 There is no significant change other than 9th graders score got replaced.
 
  - Scores by school spending after replacing the ninth-grade scores
+ 
+![Scores by school spending BEFORE score replacement](https://github.com/emmagao1/School_District_Analysis/blob/master/school%20spending%20scores%20BEFORE%20thomas%20high%20replacement.PNG)
 
 ![Scores by school spending after score replacement](https://github.com/emmagao1/School_District_Analysis/blob/master/school%20spending%20scores%20after%20thomas%20high%20replacement.PNG)
  
  - Scores by school size after replacing the ninth-grade scores
  
+ ![Scores by school size BEFORE score replacement](https://github.com/emmagao1/School_District_Analysis/blob/master/school%20size%20scores%20BEFORE%20thomas%20high%20replacement.PNG)
+ 
  ![Scores by school size after score replacement](https://github.com/emmagao1/School_District_Analysis/blob/master/school%20size%20scores%20after%20thomas%20high%20replacement.PNG)
  
   - Scores by school type after replacing the ninth-grade scores
+  
+ ![Scores by school type BEFORE score replacement]
+(https://github.com/emmagao1/School_District_Analysis/blob/master/school%20type%20scores%20BEFORE%20thomas%20high%20replacement.PNG)
 
  ![Scores by school type after score replacement](https://github.com/emmagao1/School_District_Analysis/blob/master/school%20type%20scores%20after%20thomas%20high%20replacement.PNG)
 
