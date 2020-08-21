@@ -45,6 +45,8 @@ Before replacing scores Thomas High School wasn't included in top 5 performing s
 
 ![reading score by grade after score replacement](https://github.com/emmagao1/School_District_Analysis/blob/master/Reading%20score%20by%20grade%20after%20thomas%20score%20replacement.PNG)
  
+There is no significant change other than 9th graders score got replaced.
+
  - Scores by school spending after replacing the ninth-grade scores
 
 ![Scores by school spending after score replacement](https://github.com/emmagao1/School_District_Analysis/blob/master/school%20spending%20scores%20after%20thomas%20high%20replacement.PNG)
